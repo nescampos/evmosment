@@ -1,4 +1,4 @@
-# evmosment
+# Evmosment
 Evmosment is a Club Investment platform to manage funds (treasury) in Evmos blockchain.
 
 ## URL and information
