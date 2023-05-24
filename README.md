@@ -8,6 +8,15 @@ Evmosment is a Club Investment platform to manage funds (treasury) in Evmos bloc
 - Smart Contract ID: 0x9047b59a1CD1d9790D924956182DEecf50c2A466
 - Wallet: For now it uses the keys within the platform with local storage in the browser (in EVM format), but the next version will include the connection to wallets like Metamask and Keplr.
 
+### Experience with EVMOS
+This is my first EVMOS project using Smart Contracts (before I had made a simple wallet through APIs connected to the blockchain, but without smart contracts).
+
+### Focus of this project
+The focus, from my experience working in investment managers, is to make it easier for both fund managers and people with capital to work to invest in both crypto and real (off-chain) projects.
+I thought of this project in a simple way, for 2 reasons.
+1. Due to time, since I managed to have a functional demo in a few days before the end of the delivery period.
+2. Investment managers do not have experience using wallets (like Metamask), so you have to look for another authentication option that maintains custody of the user (like using WebAuthN).
+
 ## License
 ----
 MIT License
